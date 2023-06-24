@@ -1,18 +1,6 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
-    },
-    {
-      "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
-    },
-    {
       "id": 3,
       "name": "Walliw Wilstead",
       "age": 49,
@@ -43,22 +31,28 @@
       "email": "cpimbley6@nyu.edu"
     },
     {
-      "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
+      "name": "Sandeep",
+      "email": "mail4sandeep44@gmail.com",
+      "phone": "7005763599",
+      "id": 12
     },
     {
-      "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
+      "name": "Anjali Deb",
+      "email": "anjali@gmail.com",
+      "phone": "7005763599",
+      "id": 13
     },
     {
-      "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "name": "Snigdha Deb",
+      "email": "snigdha@gmail.com",
+      "phone": "4546557545",
+      "id": 14
+    },
+    {
+      "name": "Sachin",
+      "email": "sachin@gmail.com",
+      "phone": "8259974588",
+      "id": 15
     }
   ]
 }
